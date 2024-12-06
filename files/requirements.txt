@@ -1,3 +1,4 @@
 pygame
 mediapipe
 cvzone
+pyautogui
